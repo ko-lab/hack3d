@@ -6,9 +6,11 @@ Safe Passwords talk.
 
 ## Hashcat pw cracking UI
 
-To demonstrate the easy of cracking weak password hashes with modern GPUs
+To demonstrate the ease of cracking weak password hashes with modern GPUs
 live during the talk, `crack.py` contains a web-based UI on top of `hashcat`
 implemented in [Streamlit](https://streamlit.io).
+
+![](crack.png)
 
 To run:
 
